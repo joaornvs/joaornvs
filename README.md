@@ -1,7 +1,7 @@
 <p align="center">
   <img src="github-header-banner.png" />
 </p>
-# 👋 Olá, eu sou joaornvs
+#👋 Olá, eu sou joaornvs
 
 💻 Estudando Inteligência Artificial e Dados  
 🤖 Focado em IA Generativa, Prompt Engineering e projetos práticos  
