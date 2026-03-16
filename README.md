@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou BRTheDuality
+# 👋 Olá, eu sou joaornvs
 
 💻 Estudando Inteligência Artificial e Dados  
 🤖 Focado em IA Generativa, Prompt Engineering e projetos práticos  
@@ -41,7 +41,7 @@ Meu objetivo é trabalhar com:
 
 # 🔥 Streak de Contribuições
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=BRTheDuality&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=joaornvs&theme=tokyonight)
 
 ---
 
