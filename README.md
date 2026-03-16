@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="github-header-banner.png" />
+</p>
 # 👋 Olá, eu sou joaornvs
 
 💻 Estudando Inteligência Artificial e Dados  
