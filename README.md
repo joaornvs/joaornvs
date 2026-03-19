@@ -6,7 +6,7 @@
 🤖 Focado em IA Generativa, Prompt Engineering e projetos práticos  
 📊 Explorando análise de dados e aplicações de IA no mundo real  
 
-📌 Projeto atual: **Real Life Finance Atlas**
+📌 Projeto atual: **⚡ LearnPath**
 
 ---
 
@@ -51,6 +51,8 @@ Meu objetivo é trabalhar com:
 
 📌 **Real Life Finance Atlas**  
 Guia de educação financeira usando IA e NotebookLM.
+📌**⚡ LearnPath**
+Plataforma simples de aprendizado de tecnologia com foco em inglês técnico
 
 ---
 
