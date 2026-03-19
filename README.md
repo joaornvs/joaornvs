@@ -53,7 +53,7 @@ Meu objetivo é trabalhar com:
 Guia de educação financeira usando IA e NotebookLM.
 
 📌**⚡ LearnPath**
-Plataforma simples de aprendizado de tecnologia com foco em inglês técnico
+
 
 ---
 
